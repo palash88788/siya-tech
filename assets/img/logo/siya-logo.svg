@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="205" height="83" viewBox="0 0 205 83">
+  <g id="Group_600" data-name="Group 600" transform="translate(-268 -48)">
+    <g id="Group_3" data-name="Group 3" transform="translate(268 63.736)">
+      <path id="Path_1" data-name="Path 1" d="M194.107,187.445a4.129,4.129,0,0,0-4.538,6.719,7.4,7.4,0,0,0,2.336,1.179,13.829,13.829,0,1,1-19.13,14.621.413.413,0,0,0-.024-.084,4.183,4.183,0,0,0-8.337.5c0,.068.007.133.01.2l-.01,0c0,.045.012.089.017.134.01.124.026.245.046.365a22.176,22.176,0,1,0,29.628-23.642Z" transform="translate(-164.002 -163.581)"/>
+      <path id="Path_2" data-name="Path 2" d="M177.744,160.77a4.129,4.129,0,0,0,4.538-6.719,7.4,7.4,0,0,0-2.336-1.179,13.829,13.829,0,1,1,19.13-14.621.408.408,0,0,0,.024.084,4.183,4.183,0,0,0,8.336-.5c0-.068-.007-.134-.01-.2l.01,0c0-.045-.012-.089-.017-.134-.01-.124-.026-.245-.046-.365a22.176,22.176,0,1,0-29.628,23.642Z" transform="translate(-163.199 -117.766)"/>
+    </g>
+    <text id="SIYA" transform="translate(327 111)" font-size="66" font-family="Roboto-Bold, Roboto" font-weight="700"><tspan x="0" y="0">SIYA</tspan></text>
+    <text id="TECH_VENTURES" data-name="TECH VENTURES" transform="translate(327 128)" font-size="13.5" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.25em"><tspan x="0" y="0">TECH VENTURES</tspan></text>
+  </g>
+</svg>

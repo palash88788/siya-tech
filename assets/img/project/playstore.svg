@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <g id="playstore" transform="translate(-476 -2370)">
+    <g id="Rectangle_87" data-name="Rectangle 87" transform="translate(476 2370)" fill="none" stroke="#34e7e4" stroke-width="1">
+      <rect width="34" height="34" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="33" height="33" rx="3.5" fill="none"/>
+    </g>
+    <path id="Google_Play_Logo" data-name="Google Play Logo" d="M571.144,219.528l-3.744,2.09-3-2.987,3-2.987,3.744,2.09s.618.385.607.9C571.762,219.143,571.144,219.528,571.144,219.528Zm-7.235-1.384-9.858-9.809a2.4,2.4,0,0,1,.819.308c1.213.683,7.508,4.2,11.9,6.651Zm-10.633,10.58a1.583,1.583,0,0,1-.421-.966V209.5a1.583,1.583,0,0,1,.421-.966l10.144,10.094Zm10.633-9.608,2.865,2.85c-4.4,2.453-10.691,5.968-11.9,6.651a2.4,2.4,0,0,1-.819.308Z" transform="translate(-68.855 2168.664)" fill="none" stroke="#34e7e4" stroke-width="1"/>
+  </g>
+</svg>
